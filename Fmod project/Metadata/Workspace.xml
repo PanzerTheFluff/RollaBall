@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{ba12fed6-ddb0-4e67-b3f7-aab3f749c21d}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../Unity Projects/RollaBall_WithFMOD/FMOD</value>
+		</property>
 		<relationship name="masterEventFolder">
 			<destination>{ce376c77-666d-4c9e-8b42-3f365c6dff32}</destination>
 		</relationship>
