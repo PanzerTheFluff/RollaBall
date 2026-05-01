@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{13e20827-639d-4f2a-b1a1-0109542998c8}">
+		<property name="assetPath">
+			<value>Cosmic rain.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>80.300408163265303</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7d4f9b2c-7bea-41fe-8a27-4723eb3fcce9}</destination>
+		</relationship>
+	</object>
+</objects>
